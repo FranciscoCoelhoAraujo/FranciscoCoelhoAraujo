@@ -10,7 +10,7 @@
 🐌 Kiko esx : coming soon 🐌
 
 
-                                                              [[ WEBSITES ]]
+                                                               [[ WEBSITES ]]
         
 
 
@@ -18,7 +18,7 @@
 
 
 
-                                                              [[ DISCORD ]]
+                                                               [[ DISCORD ]]
        
 
 

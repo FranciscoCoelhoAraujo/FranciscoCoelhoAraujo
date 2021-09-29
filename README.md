@@ -12,15 +12,15 @@ Kiko vrpex : coming soon
 Kiko esx : coming soon
 
 
-       [[ WEBSITES ]]
-       
+                                                              [[ WEBSITES ]]
+        
 
 
 Portfolio : coming soon
 
 
 
-       [[ DISCORD ]]
+                                                              [[ DISCORD ]]
        
 
 

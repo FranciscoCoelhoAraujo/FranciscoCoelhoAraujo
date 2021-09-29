@@ -22,4 +22,4 @@
        
 
 
-Discord : coming soon
+💻 Discord : coming soon 💻

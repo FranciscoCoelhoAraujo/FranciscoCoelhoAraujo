@@ -3,10 +3,6 @@
          
 
 
-🐌 Kiko vrp : coming soon 🐌
-
-🐌 Kiko vrpex : coming soon 🐌
-
 🐌 Kiko esx : coming soon 🐌
 
 

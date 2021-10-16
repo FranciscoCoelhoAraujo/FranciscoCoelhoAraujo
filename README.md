@@ -1,20 +1,14 @@
 
-                                                                [[ FIVEM ]]
+                                                                [[ F ]]
          
 
-
-🐌 Kiko esx : coming soon 🐌
-
-
-                                                                 [[ WEB ]]
-        
-
-
-🖥 Portfolio : coming soon 🖥
+WEBSITE
 
 
 
-                                                               [[ DISCORD ]]
+
+
+                                                                 [[ D ]]
        
 
 

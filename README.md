@@ -2,7 +2,7 @@
                                                                 [[ F ]]
          
 
-WEBSITE
+WEBSITE : 
 
 
 
@@ -12,4 +12,4 @@ WEBSITE
        
 
 
-💻 Discord : https://discord.gg/rFXJvzASj5 💻
+💻 Discord : https://discord.gg/EzAr2gex9r 💻

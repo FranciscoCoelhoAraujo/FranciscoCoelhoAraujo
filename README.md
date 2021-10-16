@@ -2,7 +2,7 @@
                                                                 [[ F ]]
          
 
-WEBSITE : https://pixel-framework.netlify.app/
+💻 WEBSITE : https://pixel-framework.netlify.app/
 
 
 
@@ -12,4 +12,4 @@ WEBSITE : https://pixel-framework.netlify.app/
        
 
 
-💻 Discord : https://discord.gg/EzAr2gex9r 💻
+💻 DISCORD : https://discord.gg/EzAr2gex9r 💻

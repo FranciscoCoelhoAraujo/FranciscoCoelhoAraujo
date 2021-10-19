@@ -2,7 +2,7 @@
                                                                 [[ F ]]
          
 
-💻 WEBSITE : https://pixel-framework.netlify.app/
+💻 WEBSITE : 
 
 
 
